@@ -94,19 +94,18 @@
 	</dependencies>
 	
 	<distributionManagement>
-		<!--
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
 	      <url>http://35.92.13.78:8081/repository/ebay-releases/</url>
 	    </repository>
-	   --> 
+<!--
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository</name>
 	      <url>http://35.92.13.78:8081/repository/ebay-snapshots/</url>
 	    </snapshotRepository>
-	    
+	-->    
 	</distributionManagement>
 	
 	<build>
